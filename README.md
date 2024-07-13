@@ -64,6 +64,7 @@ Make sure you have the correct versions of the dependencies installed as specifi
 If you encounter issues with FAISS, ensure you have installed the faiss-cpu package correctly.
 Contributing
 Feel free to open issues or submit pull requests for improvements or bug fixes. Contributions are welcome!
+![Screenshot 2024-07-13 191412](https://github.com/user-attachments/assets/7c247159-a5f2-452b-87b0-663286061a6b)
 
 License
 This project is licensed under the MIT License.
