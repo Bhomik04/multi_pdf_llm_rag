@@ -1,4 +1,4 @@
-Geospat Chat Application
+## Geospat Chat Application
 
 This project is a Streamlit-based web application that allows users to upload PDF documents, process them, and chat with a conversational AI model trained on the content of the PDFs.
 
