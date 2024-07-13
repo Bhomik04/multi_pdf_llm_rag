@@ -71,5 +71,5 @@ This project is licensed under the MIT License.
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/your-username/geospat-chat-app.git
+git clone https://github.com/Bhomik04/geospat-chat-app.git
 cd geospatial-chat-app
